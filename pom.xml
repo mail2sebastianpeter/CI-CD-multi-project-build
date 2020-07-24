@@ -6,7 +6,7 @@
   <packaging>pom</packaging>
   
   <modules>
-	<module>../Project1/pom.xml</module>
+	<module>Project1/pom.xml</module>
   </modules>
 
   
