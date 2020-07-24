@@ -7,6 +7,7 @@
   
   <modules>
 	<module>Project1/pom.xml</module>
+	<module>Project2/pom.xml</module>
   </modules>
 
   
