@@ -5,7 +5,9 @@
   <version>0.0.1-SNAPSHOT</version>
   <packaging>war</packaging>
   
-  
+  <modules>
+	<module>../Project1/pom.xml</module>
+  </modules>
 
   
     <parent>
