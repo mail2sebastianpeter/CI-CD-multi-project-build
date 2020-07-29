@@ -6,11 +6,11 @@
   <packaging>pom</packaging>
   
   <modules>
-	<module>Project1/pom.xml</module>
-	<module>Project2/pom.xml</module>
-	<module>Project3/pom.xml</module>
-	<module>Project4/pom.xml</module>
-	<module>Project5/pom.xml</module>
+	<module>../Project1/pom.xml</module>
+	<module>../Project2/pom.xml</module>
+	<module>../Project3/pom.xml</module>
+	<module>../Project4/pom.xml</module>
+	<module>../Project5/pom.xml</module>
   </modules>
 
   
